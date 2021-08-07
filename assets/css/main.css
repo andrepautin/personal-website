@@ -2162,7 +2162,10 @@ input, select, textarea {
 
 			.image.avatar img {
 				/* border-radius: 100%; */
-				width: 150%;
+				position: relative;
+				left: -100px;
+				width: 250%;
+				height: 250px;
 			}
 
 /* List */
